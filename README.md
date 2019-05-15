@@ -32,9 +32,6 @@ Now upload the dns_gateway.zip on the registrar directory
 
 Reload changes
 
-### Step 6
-
-Activate the module , and put your DNS Gateway API Username and API Password that you received on the email after requesting live credentials.
 
 
 ## On a Server

@@ -36,5 +36,32 @@ Reload changes
 
 Activate the module , and put your DNS Gateway API Username and API Password that you received on the email after requesting live credentials.
 
+
 ## On a Server
 
+### Step 1 
+
+Go to your registrars folder
+```
+$cd /var/www/html/modules/registrars/
+```
+### Step 2
+
+Clone the module
+```
+sudo git clone https://github.com/DomainNameServices/Gateway-WHMCS.git
+```
+### Step 3
+
+Change the module name
+```
+sudo mv Gateway-WHMCS/ dns_gateway
+```
+### Step 4
+
+Restart apache 
+```
+sudo systemctl restart apache2.service
+```
+
+Activate the module , and put your DNS Gateway API Username and API Password that you received on the email after requesting live credentials.

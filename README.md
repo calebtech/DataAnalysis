@@ -16,7 +16,7 @@ Download the DNS Gateway Module zip
 ### Note: Module names should be a single word, consisting of only lowercase letters and numbers. The name must start with a letter, and must be unique.
 
 
-Now extract Gateway-WHMCS-master.zip and then rename the Gateway-WHMCS-master > dns_gateway and zip it again.
+Now extract Gateway-WHMCS-master.zip and then rename the Gateway-WHMCS-master to dns_gateway and zip it again.
 
 
 ### Step 2

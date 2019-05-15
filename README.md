@@ -5,12 +5,14 @@ Sign up on https://portal.dns.business, read and accept all the terms and condit
 
 ## On a CPANEL
 
-Download the DNS Gateway Module zip
-
 login to your cpanel
 
 ### Step 1
 
+
+Download the DNS Gateway Module zip
+
+Download the DNS Gateway Module zip
 ### Note: Module names should be a single word, consisting of only lowercase letters and numbers. The name must start with a letter, and must be unique.
 
 

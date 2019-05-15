@@ -1,7 +1,7 @@
 # Integrating The Module
 
 To integrate the DNS Gateway Module on your cpanel or server please follow the instructions below.
-Sign up on https://portal.dns.business, read and accept all the terms and condition and then request credentials which will be sent to your email.
+Sign up on https://portal.dns.business, read and accept all the terms and condition and then request live credentials which will be sent to your email.
 
 ## On a CPANEL
 

@@ -10,7 +10,7 @@ login to your cpanel
 ### Step 1
 
 
-Download the DNS Gateway Module zip
+Download the DNS Gateway Module zip here https://github.com/DomainNameServices/Gateway-WHMCS
 
 
 ### Note: Module names should be a single word, consisting of only lowercase letters and numbers. The name must start with a letter, and must be unique.

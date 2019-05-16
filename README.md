@@ -1,16 +1,15 @@
 # Integrating The Module
 
 To integrate the DNS Gateway Module on your cpanel or server please follow the instructions below.
-Sign up on https://portal.dns.business, read and accept all the terms and condition and then request live or OT&E server to test your systems credentials which will be sent to your email.
 
 ##### Pre-requisites
 
 - Access to WHMCS admin area.
-- Gateway account with API access.
+- Gateway account with API access, you can sign up on https://portal.dns.business, read and accept all the terms and condition and then request live or OT&E server. 
 
 NOTE: DNS Gateway has a production as well as a test server environment. The test server environment is called OTE. We urge you to test the WHMCS Registrar module in our OTE environment, before pointing it to production. 
 
-## On a CPANEL
+## Integrating the Module on a CPANEL
 
 login to your cpanel
 

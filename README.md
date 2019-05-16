@@ -63,4 +63,5 @@ Restart apache
 sudo systemctl restart apache2.service
 ```
 
+## Configuration
 Activate the module , and put your DNS Gateway API Username and API Password that you received on the email after requesting live credentials.

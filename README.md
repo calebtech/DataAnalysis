@@ -30,7 +30,7 @@ Now go to
 
 ##### Step 4
 
-Now upload the dns_gateway.zip on the registrar directory
+Now upload the dns_gateway.zip on the registrars directory
 
 ##### Step 5 
 
@@ -43,7 +43,7 @@ Reload changes
 
 ##### Step 1 
 
-Go to your registrars folder
+Go to your registrars directory
 ```
 $cd /var/www/html/modules/registrars/
 ```

@@ -70,6 +70,6 @@ To configure WHMCS for use with Gateway, follow the steps below.
 1. Login to your **WHMCS admin** panel.
 2. Click on **Setup** menu, select **Products/Services** and click on **Domain Registrars**.
 3. Click on Activate next to Namecheap in the list:
-![Activate Plugin](https://github.com/calebtech/DataAnalysis/blob/master/Screenshot%20from%202019-05-16%2009-09-24.png)
+![Activate Plugin](https://github.com/calebtech/pictures/blob/master/Screenshot%20from%202019-05-16%2009-09-24.png)
 
 Activate the module , and put your DNS Gateway API Username and API Password that you received on the email after requesting live credentials.

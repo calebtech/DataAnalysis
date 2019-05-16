@@ -11,7 +11,7 @@ NOTE: DNS Gateway has a production as well as a test server environment. The tes
 
 ## Integrating the Module on a CPANEL
 
-Login to your cpanel
+- Login to your cpanel
 
 ### Step 1
 

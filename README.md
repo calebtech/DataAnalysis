@@ -1,7 +1,14 @@
 # Integrating The Module
 
 To integrate the DNS Gateway Module on your cpanel or server please follow the instructions below.
-Sign up on https://portal.dns.business, read and accept all the terms and condition and then request live credentials which will be sent to your email.
+Sign up on https://portal.dns.business, read and accept all the terms and condition and then request live or OT&E server to test your systems credentials which will be sent to your email.
+
+##### Pre-requisites
+
+- Access to WHMCS admin area.
+- Gateway account with API access.
+
+NOTE: DNS Gateway has a production as well as a test server environment. The test server environment is called OTE. We urge you to test the WHMCS Registrar module in our OTE environment, before pointing it to production. 
 
 ## On a CPANEL
 
@@ -72,7 +79,7 @@ To configure WHMCS for use with DNS Gateway, follow the steps below.
 3. Click on Activate next to DNS Gateway in the list:
 ![Activate Plugin](https://github.com/calebtech/pictures/blob/master/Screenshot%20from%202019-05-16%2009-09-24.png)
 
-4. Enter your DNS Gateway API Username and API Password that you received on the email after requesting live credentials.
+4. Enter your DNS Gateway API Username and API Password credentials, If you wish to test the module before you go live, you can you can 
 ![Activate Plugin](https://github.com/calebtech/pictures/blob/master/Screenshot%20from%202019-05-16%2009-36-04.png)
 
 5. Optional Settings

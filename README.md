@@ -76,7 +76,7 @@ To configure WHMCS for use with DNS Gateway, follow the steps below.
 3. Click on Activate next to DNS Gateway in the list:
 ![Activate Plugin](https://github.com/calebtech/pictures/blob/master/Screenshot%20from%202019-05-16%2009-09-24.png)
 
-4. Enter your DNS Gateway API Username and API Password credentials, If you wish to test the module before you go live, you can you can 
+4. Enter your DNS Gateway API credentials, If you wish to test the module before you go live, you can use your DNS Gateway OTE API credentials to corresponding text boxes (OTE API) and check the "Enable OTE Testing Mode".
 ![Activate Plugin](https://github.com/calebtech/pictures/blob/master/Screenshot%20from%202019-05-16%2009-36-04.png)
 
 5. Optional Settings

@@ -65,11 +65,21 @@ sudo systemctl restart apache2.service
 
 ## Configuration
 
-To configure WHMCS for use with Gateway, follow the steps below.
+To configure WHMCS for use with DNS Gateway, follow the steps below.
 
 1. Login to your **WHMCS admin** panel.
 2. Click on **Setup** menu, select **Products/Services** and click on **Domain Registrars**.
-3. Click on Activate next to Namecheap in the list:
+3. Click on Activate next to DNS Gateway in the list:
 ![Activate Plugin](https://github.com/calebtech/pictures/blob/master/Screenshot%20from%202019-05-16%2009-09-24.png)
 
-Activate the module , and put your DNS Gateway API Username and API Password that you received on the email after requesting live credentials.
+4. Enter your DNS Gateway API Username and API Password that you received on the email after requesting live credentials.
+![Activate Plugin](https://github.com/calebtech/pictures/blob/master/Screenshot%20from%202019-05-16%2009-36-04.png)
+
+5. Optional Settings
+ - If you’re having any issues with the module it is recommended to enable DebugMode and check the logs under Utilities > Logs > Module Log. If this option is disabled the module will be logging only errors returned by the module.
+ 
+6. Click save changes
+
+That’s it. The DNS Gateway plug-in is now ready for use and will function just like any other built-in WHMCS registrar module. You can now make DNS Gatewayas the automatic registrar, configure TLDs and services for all your customers. To perform these actions, click on the Setup menu, select Products/Services and click on Domain Pricing in your WHMCS admin panel:
+
+You can refer to http://docs.whmcs.com/Domains_Configuration for more information.

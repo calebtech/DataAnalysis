@@ -11,7 +11,7 @@ NOTE: DNS Gateway has a production as well as a test server environment. The tes
 
 ## Integrating the Module on a CPANEL
 
-#### Step 1
+##### Step 1
 
 
 Note: Module names should be a single word, consisting of only lowercase letters and numbers. The name must start with a letter, and must be unique.
@@ -21,18 +21,18 @@ Note: Module names should be a single word, consisting of only lowercase letters
 - Now extract Gateway-WHMCS-master.zip and then rename the Gateway-WHMCS-master to dns_gateway and zip it again.
 
 
-#### Step 2
+##### Step 2
 
 Now go to
 ```
  File Manager -> public_html -> modules -> registrars
 ```
 
-#### Step 4
+##### Step 4
 
 Now upload the dns_gateway.zip on the registrar directory
 
-#### Step 5 
+##### Step 5 
 
 Reload changes
 
@@ -41,25 +41,25 @@ Reload changes
 
 ## Integrating the Module on a Server
 
-#### Step 1 
+##### Step 1 
 
 Go to your registrars folder
 ```
 $cd /var/www/html/modules/registrars/
 ```
-#### Step 2
+##### Step 2
 
 Clone the module
 ```
 sudo git clone https://github.com/DomainNameServices/Gateway-WHMCS.git
 ```
-#### Step 3
+##### Step 3
 
 Change the module name
 ```
 sudo mv Gateway-WHMCS/ dns_gateway
 ```
-#### Step 4
+##### Step 4
 
 Restart apache 
 ```

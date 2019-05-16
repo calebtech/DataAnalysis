@@ -11,18 +11,19 @@ NOTE: DNS Gateway has a production as well as a test server environment. The tes
 
 ## Integrating the Module on a CPANEL
 
-login to your cpanel
+Login to your cpanel
 
 ### Step 1
 
 
-Download the DNS Gateway Module zip here https://github.com/DomainNameServices/Gateway-WHMCS
+ 
 
 
-### Note: Module names should be a single word, consisting of only lowercase letters and numbers. The name must start with a letter, and must be unique.
+Note: Module names should be a single word, consisting of only lowercase letters and numbers. The name must start with a letter, and must be unique.
 
+- Download the Module (Gateway-WHMCS-master.zip) archive
 
-Now extract Gateway-WHMCS-master.zip and then rename the Gateway-WHMCS-master to dns_gateway and zip it again.
+- Now extract Gateway-WHMCS-master.zip and then rename the Gateway-WHMCS-master to dns_gateway and zip it again.
 
 
 ### Step 2

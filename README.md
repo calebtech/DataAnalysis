@@ -40,7 +40,7 @@ Reload changes
 
 
 
-## On a Server
+## Integrating the Module on a Server
 
 ### Step 1 
 
